@@ -1,0 +1,7 @@
+{
+  "name": "bc_trading",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
